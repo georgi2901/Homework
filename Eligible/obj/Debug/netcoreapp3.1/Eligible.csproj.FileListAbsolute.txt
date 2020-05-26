@@ -1,0 +1,13 @@
+C:\Users\MyPC\source\repos\Eligible\Eligible\bin\Debug\netcoreapp3.1\Eligible.exe
+C:\Users\MyPC\source\repos\Eligible\Eligible\bin\Debug\netcoreapp3.1\Eligible.deps.json
+C:\Users\MyPC\source\repos\Eligible\Eligible\bin\Debug\netcoreapp3.1\Eligible.runtimeconfig.json
+C:\Users\MyPC\source\repos\Eligible\Eligible\bin\Debug\netcoreapp3.1\Eligible.runtimeconfig.dev.json
+C:\Users\MyPC\source\repos\Eligible\Eligible\bin\Debug\netcoreapp3.1\Eligible.dll
+C:\Users\MyPC\source\repos\Eligible\Eligible\bin\Debug\netcoreapp3.1\Eligible.pdb
+C:\Users\MyPC\source\repos\Eligible\Eligible\obj\Debug\netcoreapp3.1\Eligible.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\Eligible\Eligible\obj\Debug\netcoreapp3.1\Eligible.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\Eligible\Eligible\obj\Debug\netcoreapp3.1\Eligible.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\Eligible\Eligible\obj\Debug\netcoreapp3.1\Eligible.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\Eligible\Eligible\obj\Debug\netcoreapp3.1\Eligible.dll
+C:\Users\MyPC\source\repos\Eligible\Eligible\obj\Debug\netcoreapp3.1\Eligible.pdb
+C:\Users\MyPC\source\repos\Eligible\Eligible\obj\Debug\netcoreapp3.1\Eligible.genruntimeconfig.cache
